@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>QATestC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>QAnalizer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>QComp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>replace.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>54034016185890EC00C82162</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>540340351864504B00C82162</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54D774431865D30300865BD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54D77458187ADF0200865BD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54D77477187ADF0400865BD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54E82D4A18B8DF5B00C2C361</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
