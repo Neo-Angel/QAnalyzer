@@ -10,6 +10,8 @@
 	<string>QAnalizer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</key>
+		<string>https://github.com/Neo-Angel/QAnalyzer.git</string>
 		<key>F86D5B1CC5951D271B7E6D048367E6CAD130CE75</key>
 		<string>https://github.com/Neo-Angel/QAnalizer.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>QAnalizer.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F86D5B1CC5951D271B7E6D048367E6CAD130CE75</key>
+		<key>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</key>
 		<string>../..</string>
+		<key>F86D5B1CC5951D271B7E6D048367E6CAD130CE75</key>
+		<string>../../../QAnalizer</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Neo-Angel/QAnalizer.git</string>
+	<string>https://github.com/Neo-Angel/QAnalyzer.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F86D5B1CC5951D271B7E6D048367E6CAD130CE75</string>
+	<string>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>F86D5B1CC5951D271B7E6D048367E6CAD130CE75</string>
 			<key>IDESourceControlWCCName</key>
 			<string>QAnalizer</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QAnalyzer</string>
 		</dict>
 	</array>
 </dict>

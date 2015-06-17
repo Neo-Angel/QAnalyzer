@@ -1,13 +1,13 @@
 //
 //  ej_qutils.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 11..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef __QAnalizer__ej_qutils__
-#define __QAnalizer__ej_qutils__
+#ifndef __QAnalyzer__ej_qutils__
+#define __QAnalyzer__ej_qutils__
 
 //#include <iostream>
 #include <stdio.h>
@@ -50,4 +50,4 @@ NSRect pageRectFrom(unsigned char *bstr);
 EJMargin marginFrom(unsigned char *bstr);
 
 
-#endif /* defined(__QAnalizer__ej_qutils__) */
+#endif /* defined(__QAnalyzer__ej_qutils__) */

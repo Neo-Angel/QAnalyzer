@@ -1,13 +1,13 @@
 //
 //  ej_list.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 22..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef QAnalizer_ej_list_h
-#define QAnalizer_ej_list_h
+#ifndef QAnalyzer_ej_list_h
+#define QAnalyzer_ej_list_h
 
 
 

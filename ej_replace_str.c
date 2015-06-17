@@ -1,6 +1,6 @@
 //
 //  ej_replace_str.c
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angelon 14. 2. 21..
 //  Copyright (c) 2014년 Neo Angel. All rights reserved.

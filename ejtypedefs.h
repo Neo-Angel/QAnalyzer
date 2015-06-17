@@ -1,13 +1,13 @@
 //
 //  ejtypedefs.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 25..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef QAnalizer_ejtypedefs_h
-#define QAnalizer_ejtypedefs_h
+#ifndef QAnalyzer_ejtypedefs_h
+#define QAnalyzer_ejtypedefs_h
 
 
 extern char *EJ_GraphicTypeName[];  // 그래픽 타입의 문자열 이름 리스트 : {"Line","Image","Text","Group","UserBox"};

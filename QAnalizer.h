@@ -1,13 +1,13 @@
 //
-//  QAnalizer.h
-//  QAnalizer
+//  QAnalyzer.h
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 24..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef QAnalizer_QAnalizer_h
-#define QAnalizer_QAnalizer_h
+#ifndef QAnalyzer_QAnalyzer_h
+#define QAnalyzer_QAnalyzer_h
 #include "ejtypedefs.h"
 
 

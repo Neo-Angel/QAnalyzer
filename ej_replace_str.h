@@ -1,13 +1,13 @@
 //
 //  ej_replace_str.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 14. 2. 21..
 //  Copyright (c) 2014년 Neo Angel. All rights reserved.
 //
 
-#ifndef QAnalizer_ej_replace_str_h
-#define QAnalizer_ej_replace_str_h
+#ifndef QAnalyzer_ej_replace_str_h
+#define QAnalyzer_ej_replace_str_h
 
 
 //      Example

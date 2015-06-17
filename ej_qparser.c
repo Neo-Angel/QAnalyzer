@@ -1,6 +1,6 @@
 //
 //  ej_qparser.cpp
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 11..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.

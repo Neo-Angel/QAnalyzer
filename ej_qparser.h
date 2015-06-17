@@ -1,17 +1,17 @@
 //
 //  ej_qparser.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 11..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef __QAnalizer__ej_qparser__
-#define __QAnalizer__ej_qparser__
+#ifndef __QAnalyzer__ej_qparser__
+#define __QAnalyzer__ej_qparser__
 
 #include "ej_qutils.h"
 #include "ej_list.h"
-#include "QAnalizer.h"
+#include "QAnalyzer.h"
 
 
 #define STYLE_LEN   (16 * 19 + 4)
@@ -186,4 +186,4 @@ BOOL isQuarkFile(char *qpath ,unsigned char *language, unsigned int *qver);
 void startAnalize();
 
 
-#endif /* defined(__QAnalizer__ej_qparser__) */
+#endif /* defined(__QAnalyzer__ej_qparser__) */

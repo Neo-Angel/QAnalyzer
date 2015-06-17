@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "QAnalizer.h"
+#include "QAnalyzer.h"
 EJQDocument *createQDocument2(char *qdocpath);
 
 int main(int argc, const char * argv[])

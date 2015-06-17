@@ -1,13 +1,13 @@
 //
 //  ej_qgraphics.h
-//  QAnalizer
+//  QAnalyzer
 //
 //  Created by Neo Angel on 13. 12. 15..
 //  Copyright (c) 2013년 Neo Angel. All rights reserved.
 //
 
-#ifndef __QAnalizer__ej_qgraphics__
-#define __QAnalizer__ej_qgraphics__
+#ifndef __QAnalyzer__ej_qgraphics__
+#define __QAnalyzer__ej_qgraphics__
 
 //#include <list>
 //#include <map>
@@ -36,4 +36,4 @@ typedef struct _EJTextLink {
 
 long getGraphics(EJQInfo *qinfo, EJGraphicItem **glist, FILE *fileh ,unsigned short gcnt, FILE *orgfh, EJTextLink *textLink, BOOL flag);
 
-#endif /* defined(__QAnalizer__ej_qgraphics__) */
+#endif /* defined(__QAnalyzer__ej_qgraphics__) */

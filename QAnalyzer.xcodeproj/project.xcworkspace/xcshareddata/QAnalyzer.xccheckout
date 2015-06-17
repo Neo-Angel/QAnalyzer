@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2565A1D-4E24-48F1-B6CF-256410A57309</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QAnalyzer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</key>
+		<string>https://github.com/Neo-Angel/QAnalyzer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QAnalyzer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Neo-Angel/QAnalyzer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96B3B5EAD1455AFA870757D62A6DAF5A8545C99F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QAnalyzer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
